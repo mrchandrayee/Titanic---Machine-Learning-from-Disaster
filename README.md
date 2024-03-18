@@ -1,12 +1,11 @@
 # Titanic---Machine-Learning-from-Disaster
 
-Certainly! Below is a template for a README file for your GitHub repository:
+
 
 ```markdown
 # Titanic - Machine Learning from Disaster
 
-![![image](https://github.com/mrchandrayee/Titanic---Machine-Learning-from-Disaster/assets/161303034/38b4959c-8d61-43e8-8213-0d0d7f1413ff)
-](titanic.jpg)
+(https://www.kaggle.com/competitions/titanic/overview)
 
 ## Overview
 This repository contains the code and resources for the Kaggle competition "Titanic - Machine Learning from Disaster". The goal of this project is to predict whether a passenger survived the sinking of the Titanic based on passenger information such as age, gender, socio-economic class, etc.
